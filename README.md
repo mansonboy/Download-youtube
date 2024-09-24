@@ -9,9 +9,9 @@ python main.py
 
 ## Usage
 
-1 - Enter the link youtube
-2 - Choice music or video
-3 - Choice name the file download
+1. Enter the link youtube
+2. Choice music or video
+3. Choice name the file download
 
 Enjoy !
 
